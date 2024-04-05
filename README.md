@@ -57,6 +57,7 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
+
 <img width="177" alt="image" src="https://github.com/shrenidhi28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/155261096/42ed5540-057b-422d-b652-b426d3cd4d72"> <br><br><br>
 
 
@@ -66,7 +67,9 @@ print(f"Predicted value: {pre}")
 
 
 
-
+data information
+<br>
+<br>
 <img width="263" alt="image" src="https://github.com/shrenidhi28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/155261096/f87c11a4-a68a-46da-8cb4-085e35100079"> <br><br><br>
 
 <img width="291" alt="image" src="https://github.com/shrenidhi28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/155261096/cf37c9f2-e3ea-4c79-b8dc-7cde204ce91b">
