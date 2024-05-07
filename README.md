@@ -55,6 +55,10 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 
+
+
+
+
 ## Output:
 
 
